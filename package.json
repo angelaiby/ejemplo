@@ -1,0 +1,19 @@
+{
+  "name": "laboratoria",
+  "version": "1.0.0",
+  "main": "nuevo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelaiby/ejemplo.git"
+  },
+  "author": "\"Angela Barriga Yanac\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelaiby/ejemplo/issues"
+  },
+  "homepage": "https://github.com/angelaiby/ejemplo#readme",
+  "description": ""
+}
